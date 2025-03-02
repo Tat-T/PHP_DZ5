@@ -10,3 +10,4 @@
 
 `http://localhost/php_dz5/lists.php`
 
+<img src="images/Screenshot_3.png" alt="задание" width="350">
