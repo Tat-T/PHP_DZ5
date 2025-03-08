@@ -11,3 +11,7 @@
 `http://localhost/php_dz5/lists.php`
 
 <img src="images/Screenshot_3.png" alt="задание" width="350">
+
+`http://localhost/php_dz5/Forma.php`
+
+<img src="images/Screenshot_4.png" alt="задание" width="350">
